@@ -1,1 +1,31 @@
-{"catalog_version":1,"mods":[{"category":"大洋海战","description":"二战海战题材模组：日本联合舰队 vs 美国太平洋舰队，纯海洋无大陆；沙盒 + 对决双模式，24 舰级，每座炮塔独立旋转、逐炮桶独立开火（中文版）。","download_url":"https://github.com/xyu3032-commits/NavalWarfareMod/releases/download/v1.0.0/naval_warfare.dfmod","game_version":"0.33.5.44","icon":"https://raw.githubusercontent.com/xyu3032-commits/NavalWarfareMod/main/icons/naval_warfare.png","id":"naval_warfare","name":"大洋海战（中文版）","sha256":"318f1fea5675b013f5a48a7186fbaa467ab36e930099a45825f76d993433bc2f","size":11686464,"updated":"2026-11-26","version":"1.0.0"},{"category":"大洋海战","description":"WWII naval warfare mod, English version (Japanese Combined Fleet vs US Pacific Fleet, pure ocean; Sandbox + Duel modes, 24 ship classes, independently traversing turrets, per-barrel fire).","download_url":"https://github.com/xyu3032-commits/NavalWarfareMod/releases/download/v1.0.0/naval_warfare_en.dfmod","game_version":"0.33.5.44","icon":"https://raw.githubusercontent.com/xyu3032-commits/NavalWarfareMod/main/icons/naval_warfare_en.png","id":"naval_warfare","name":"大洋海战（English）","sha256":"b742dde4d37b15214076cefc9ee40b72267b638fd24d8f48aec204b36d5c2136","size":11666814,"updated":"2026-11-26","version":"1.0.0"}]}
+{
+    "catalog_version": 1,
+    "mods": [
+        {
+            "category": "大洋海战",
+            "description": "二战海战题材模组：日本联合舰队 vs 美国太平洋舰队，纯海洋无大陆；沙盒 + 对决双模式，24 舰级，每座炮塔独立旋转、逐炮桶独立开火（中文版）。",
+            "download_url": "https://github.com/xyu3032-commits/NavalWarfareMod/releases/download/v1.1.0/naval_warfare.dfmod",
+            "game_version": "0.33.5.44",
+            "icon": "https://raw.githubusercontent.com/xyu3032-commits/NavalWarfareMod/main/icons/naval_warfare.png",
+            "id": "naval_warfare",
+            "name": "大洋海战（中文版）",
+            "sha256": "dc7eba2a90b8d8e3502dfbda4232e82605737bb88fd6aaa8e1eb1e1720897128",
+            "size": 11688103,
+            "updated": "2026-11-26",
+            "version": "1.1.0"
+        },
+        {
+            "category": "大洋海战",
+            "description": "WWII naval warfare mod, English version (Japanese Combined Fleet vs US Pacific Fleet, pure ocean; Sandbox + Duel modes, 24 ship classes, independently traversing turrets, per-barrel fire).",
+            "download_url": "https://github.com/xyu3032-commits/NavalWarfareMod/releases/download/v1.1.0/naval_warfare_en.dfmod",
+            "game_version": "0.33.5.44",
+            "icon": "https://raw.githubusercontent.com/xyu3032-commits/NavalWarfareMod/main/icons/naval_warfare_en.png",
+            "id": "naval_warfare",
+            "name": "大洋海战（English）",
+            "sha256": "20ad797dcb36d48a084b68bfc3a387158328f991e74e7d93ad5cc3156c118ef6",
+            "size": 11668434,
+            "updated": "2026-11-26",
+            "version": "1.1.0"
+        }
+    ]
+}
